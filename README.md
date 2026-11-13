@@ -77,8 +77,8 @@ Python 3.12 · TensorFlow / Keras · librosa · NumPy · Matplotlib · sounddevi
 
 ## Author
 
-Your Name · [GitHub](https://github.com/<your-username>)
+Gala Sultan Sawyaan · [GitHub](https://github.com/galasultansawyaan-droid)
 
 ## License
 
-MIT (add a `LICENSE` file, or choose one when creating the repo on GitHub).
+This project is for educational purposes.
